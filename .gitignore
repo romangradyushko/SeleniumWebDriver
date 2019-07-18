@@ -1,0 +1,12 @@
+*.classpath
+
+*.project
+
+*.class
+*.prefs
+/target/
+/test-output/
+*.MF
+*.properties
+*.lst
+
